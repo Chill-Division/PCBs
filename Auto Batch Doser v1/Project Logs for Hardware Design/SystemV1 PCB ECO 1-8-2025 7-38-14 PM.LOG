@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Stepper1_A2 Pin=Stepper1-1
+Removed Pin From Net: NetName=Stepper1_A1 Pin=Stepper1-2
+Removed Pin From Net: NetName=Stepper1_B2 Pin=Stepper1-3
+Removed Pin From Net: NetName=Stepper1_B1 Pin=Stepper1-4
+Added Pin To Net: NetName=Stepper1_A1 Pin=Stepper1-1
+Added Pin To Net: NetName=Stepper1_A2 Pin=Stepper1-2
+Added Pin To Net: NetName=Stepper1_B1 Pin=Stepper1-3
+Added Pin To Net: NetName=Stepper1_B2 Pin=Stepper1-4

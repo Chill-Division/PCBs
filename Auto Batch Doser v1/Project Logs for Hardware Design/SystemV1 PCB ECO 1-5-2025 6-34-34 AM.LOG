@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=Vref Pin=C?-2
+Removed Pin From Net: NetName=NetC?_2 Pin=R?-2
+Removed Pin From Net: NetName=NetC?_2 Pin=U?-19
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet Link"; Value = "https://eu.mouser.com/datasheet/2/400/lcc_automotive_general_en-843974.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Link"; Value = "https://eu.mouser.com/ProductDetail/TDK/CGA1A2X7R1H331M030BA?qs=sGAEpiMZZMs0AnBnWHyRQL8L3bkL%252bvtyS9XpSB1mk7rVV5K8%252bbxEeg%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet Link"; Value = "https://eu.mouser.com/datasheet/2/400/lcc_automotive_general_en-843974.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Link"; Value = "https://eu.mouser.com/ProductDetail/TDK/CGA1A2X7R1H331M030BA?qs=sGAEpiMZZMs0AnBnWHyRQL8L3bkL%252bvtyS9XpSB1mk7rVV5K8%252bbxEeg%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet Link"; Value = "https://eu.mouser.com/datasheet/2/400/lcc_automotive_general_en-843974.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Link"; Value = "https://eu.mouser.com/ProductDetail/TDK/CGA1A2X7R1H331M030BA?qs=sGAEpiMZZMs0AnBnWHyRQL8L3bkL%252bvtyS9XpSB1mk7rVV5K8%252bbxEeg%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet Link"; Value = "https://eu.mouser.com/datasheet/2/400/lcc_automotive_general_en-843974.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Link"; Value = "https://eu.mouser.com/ProductDetail/TDK/CGA1A2X7R1H331M030BA?qs=sGAEpiMZZMs0AnBnWHyRQL8L3bkL%252bvtyS9XpSB1mk7rVV5K8%252bbxEeg%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet Link"; Value = "https://eu.mouser.com/datasheet/2/400/lcc_automotive_general_en-843974.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Link"; Value = "https://eu.mouser.com/ProductDetail/TDK/CGA1A2X7R1H331M030BA?qs=sGAEpiMZZMs0AnBnWHyRQL8L3bkL%252bvtyS9XpSB1mk7rVV5K8%252bbxEeg%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet Link"; Value = "https://eu.mouser.com/datasheet/2/400/lcc_automotive_general_en-843974.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Link"; Value = "https://eu.mouser.com/ProductDetail/TDK/CGA1A2X7R1H331M030BA?qs=sGAEpiMZZMs0AnBnWHyRQL8L3bkL%252bvtyS9XpSB1mk7rVV5K8%252bbxEeg%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet Link"; Value = "https://eu.mouser.com/datasheet/2/400/lcc_automotive_general_en-843974.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Link"; Value = "https://eu.mouser.com/ProductDetail/TDK/CGA1A2X7R1H331M030BA?qs=sGAEpiMZZMs0AnBnWHyRQL8L3bkL%252bvtyS9XpSB1mk7rVV5K8%252bbxEeg%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet Link"; Value = "https://eu.mouser.com/datasheet/2/400/lcc_automotive_general_en-843974.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Link"; Value = "https://eu.mouser.com/ProductDetail/TDK/CGA1A2X7R1H331M030BA?qs=sGAEpiMZZMs0AnBnWHyRQL8L3bkL%252bvtyS9XpSB1mk7rVV5K8%252bbxEeg%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet Link"; Value = "https://eu.mouser.com/datasheet/2/400/lcc_automotive_general_en-843974.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Link"; Value = "https://eu.mouser.com/ProductDetail/TDK/CGA1A2X7R1H331M030BA?qs=sGAEpiMZZMs0AnBnWHyRQL8L3bkL%252bvtyS9XpSB1mk7rVV5K8%252bbxEeg%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet Link"; Value = "https://eu.mouser.com/datasheet/2/400/lcc_automotive_general_en-843974.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Link"; Value = "https://eu.mouser.com/ProductDetail/TDK/CGA1A2X7R1H331M030BA?qs=sGAEpiMZZMs0AnBnWHyRQL8L3bkL%252bvtyS9XpSB1mk7rVV5K8%252bbxEeg%3d%3d"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+24V Pin=C?-2
+Added Pin To Net: NetName=+24V Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=Vref Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=T?-E
+Added Pin To Net: NetName=NetC?_2 Pin=U?-9
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=Stepper Motor Member=Component C? 10uF/25V
+Added Member To Class: ClassName=Stepper Motor Member=Component C? 0.1uF/50V
+Added Member To Class: ClassName=Stepper Motor Member=Component C? 0.1uF/50V
+Added Member To Class: ClassName=Stepper Motor Member=Component C? 1uF/16V
+Added Member To Class: ClassName=Stepper Motor Member=Component C? 0.1uF/50V
+Added Member To Class: ClassName=Stepper Motor Member=Component C? 0.1uF/50V
+Added Member To Class: ClassName=Stepper Motor Member=Component C? 0.1uF/50V
+Added Member To Class: ClassName=Stepper Motor Member=Component C? 0.1uF/50V
+Added Member To Class: ClassName=Stepper Motor Member=Component C? 0.1uF/50V
+Added Member To Class: ClassName=Stepper Motor Member=Component C? 0.1uF/50V
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 1K
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 4.7KR
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 4.7KR
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 4.7KR
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 51KR
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 330R
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 0.2R
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 4.7KR
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 0.2R
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 24KR
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 4.7KR
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 4.7KR
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 33KR
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 470R
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 4.7KR
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 4.7KR
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 33KR
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 330R
+Added Member To Class: ClassName=Stepper Motor Member=Component R? 4.7KR
+Added Member To Class: ClassName=Stepper Motor Member=Component T? MMBT3904 Transistor
+Added Member To Class: ClassName=Stepper Motor Member=Component T? MMBT3904 Transistor
+Added Member To Class: ClassName=Stepper Motor Member=Component U? 6N137S-TA1-L
+Added Member To Class: ClassName=Stepper Motor Member=Component U? REF3318AIDBZR
+Added Member To Class: ClassName=Stepper Motor Member=Component U? TLP291(GB-TP,SE
+Added Member To Class: ClassName=Stepper Motor Member=Component U? TB6600HG
+Added Member To Class: ClassName=Stepper Motor Member=Component U? 6N137S-TA1-L

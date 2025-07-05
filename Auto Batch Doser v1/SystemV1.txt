@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : D:\0001Nour\D\My Work\Design\Altium Design\project\UpWork Projects\010- Four Stepper Motor controller\Hardware Design\SystemV1.PcbDoc
+Date         : 1/12/2025
+Time         : 6:04:44 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 236.093mmx95.758mm
+    Components on board, 222
+count : 2

@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=STM Member=R15
+Removed Member From Class: ClassName=Stepper Motor1 Member=R83
+Removed Member From Class: ClassName=STM Member=U4
+Change Component Designator: OldDesignator=L4 NewDesignator=L1
+Change Component Designator: OldDesignator=R15 NewDesignator=R84
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW5
+Change Component Designator: OldDesignator=U4 NewDesignator=U26
+Change Net Name : Old Net Name=NetL4_2 New Net Name=NetL1_2
+Added Pin To Net: NetName=NetR84_2 Pin=R84-2
+Added Pin To Net: NetName=NetR84_2 Pin=U26-60
+Added Net: Name=NetR84_2
+Added Member To Class: ClassName=Stepper Motor1 Member=Component R2 4.7KR
+Added Member To Class: ClassName=STM Member=Component R84 C95204
+Added Member To Class: ClassName=STM Member=Component U26 C74524

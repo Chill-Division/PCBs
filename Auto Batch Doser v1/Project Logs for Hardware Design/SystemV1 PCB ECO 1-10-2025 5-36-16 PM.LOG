@@ -1,0 +1,20 @@
+Added Component: Designator=F1(PinHeader Polar)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Added Component: Designator=F2(PinHeader Polar)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Added Component: Designator=F3(PinHeader Polar)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Added Component: Designator=F4(PinHeader Polar)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24V Pin=F1-1
+Added Pin To Net: NetName=GND Pin=F1-2
+Added Pin To Net: NetName=+24V Pin=F2-1
+Added Pin To Net: NetName=GND Pin=F2-2
+Added Pin To Net: NetName=+24V Pin=F3-1
+Added Pin To Net: NetName=GND Pin=F3-2
+Added Pin To Net: NetName=+24V Pin=F4-1
+Added Pin To Net: NetName=GND Pin=F4-2
+Added Member To Class: ClassName=POWER Member=Component F1
+Added Member To Class: ClassName=POWER Member=Component F2
+Added Member To Class: ClassName=POWER Member=Component F3
+Added Member To Class: ClassName=POWER Member=Component F4

@@ -1,0 +1,85 @@
+Change Component Comment : Designator=X1 Old Comment=C22549 New Comment=8MHz
+Change Component Comment : Designator=U26 Old Comment=C74524 New Comment=STM32
+Change Component Comment : Designator=R48 Old Comment=C95204 New Comment=24KR
+Change Component Comment : Designator=R83 Old Comment=C95204 New Comment=24KR
+Change Component Comment : Designator=R84 Old Comment=C95204 New Comment=24KR
+Change Component Comment : Designator=L1 Old Comment=C99366 New Comment=CMI201209X100KT
+Change Component Comment : Designator=C31 Old Comment=C1952845 New Comment=4.7uF/16V
+Change Component Description : Designator=U26 Old Description= New Description=C74524
+Change Component Description : Designator=SW1 Old Description= New Description=C431545
+Change Component Description : Designator=SW2 Old Description= New Description=C431545
+Change Component Description : Designator=SW3 Old Description= New Description=C431545
+Change Component Description : Designator=SW4 Old Description= New Description=C431545
+Change Component Description : Designator=SW5 Old Description=2 PINS, 3mm X 4mm New Description=C492861
+Change Component Description : Designator=C31 Old Description=4.7uF 16V  C1952845 New Description=C7206
+Change Component Description : Designator=X1 Old Description=8MHz ±0.5% 10pF New Description=C907975
+Change Component Description : Designator=R48 Old Description=0603 Resistor        10k or 22k New Description=C138026
+Change Component Description : Designator=R83 Old Description=0603 Resistor        10k or 22k New Description=C138026
+Change Component Description : Designator=R84 Old Description=0603 Resistor        10k or 22k New Description=C138026
+Change Component Description : Designator=R12 Old Description=0603 Resistor New Description=C106231
+Change Component Description : Designator=R29 Old Description=0603 Resistor New Description=C106231
+Change Component Description : Designator=R50 Old Description=0603 Resistor New Description=C106231
+Change Component Description : Designator=R70 Old Description=0603 Resistor New Description=C106231
+Change Component Description : Designator=R1 Old Description=0603 Resistor New Description=C114877
+Change Component Description : Designator=R22 Old Description=0603 Resistor New Description=C114877
+Change Component Description : Designator=R42 Old Description=0603 Resistor New Description=C114877
+Change Component Description : Designator=R63 Old Description=0603 Resistor New Description=C114877
+Change Component Description : Designator=R9 Old Description=0603 Resistor New Description=C138003
+Change Component Description : Designator=R10 Old Description=0603 Resistor New Description=C138003
+Change Component Description : Designator=R27 Old Description=0603 Resistor New Description=C138003
+Change Component Description : Designator=R28 Old Description=0603 Resistor New Description=C138003
+Change Component Description : Designator=R47 Old Description=0603 Resistor New Description=C138003
+Change Component Description : Designator=R49 Old Description=0603 Resistor New Description=C138003
+Change Component Description : Designator=R68 Old Description=0603 Resistor New Description=C138003
+Change Component Description : Designator=R69 Old Description=0603 Resistor New Description=C138003
+Change Component Description : Designator=R5 Old Description=0603 Resistor New Description=C138026
+Change Component Description : Designator=R25 Old Description=0603 Resistor New Description=C138026
+Change Component Description : Designator=R45 Old Description=0603 Resistor New Description=C138026
+Change Component Description : Designator=R66 Old Description=0603 Resistor New Description=C138026
+Change Component Description : Designator=LED1 Old Description=1206 LED New Description=C434438
+Change Component Description : Designator=LED3 Old Description=1206 LED New Description=C434438
+Change Component Description : Designator=LED4 Old Description=1206 LED New Description=C434438
+Change Component Description : Designator=LED5 Old Description=1206 LED New Description=C434438
+Change Component Description : Designator=LED2 Old Description=1206 LED New Description=C434442
+Change Component Description : Designator=R14 Old Description=C105871 New Description=C107230
+Change Component Description : Designator=R31 Old Description=C105871 New Description=C107230
+Change Component Description : Designator=R52 Old Description=C105871 New Description=C107230
+Change Component Description : Designator=R72 Old Description=C105871 New Description=C107230
+Change Component Description : Designator=L1 Old Description=CMI201209X100KT / C99366 New Description=C99366
+Change Component Description : Designator=T1 Old Description=MMBT3904 Transistor New Description=C108429
+Change Component Description : Designator=T2 Old Description=MMBT3904 Transistor New Description=C108429
+Change Component Description : Designator=T3 Old Description=MMBT3904 Transistor New Description=C108429
+Change Component Description : Designator=T4 Old Description=MMBT3904 Transistor New Description=C108429
+Change Component Description : Designator=T5 Old Description=MMBT3904 Transistor New Description=C108429
+Change Component Description : Designator=T6 Old Description=MMBT3904 Transistor New Description=C108429
+Change Component Description : Designator=T7 Old Description=MMBT3904 Transistor New Description=C108429
+Change Component Description : Designator=T8 Old Description=MMBT3904 Transistor New Description=C108429
+Change Component Description : Designator=T9 Old Description=MMBT3904 Transistor New Description=C108429
+Change Component Description : Designator=T10 Old Description=MMBT3904 Transistor New Description=C108429
+Change Component Description : Designator=T11 Old Description=MMBT3904 Transistor New Description=C108429
+Change Component Description : Designator=T12 Old Description=MMBT3904 Transistor New Description=C108429
+Change Component Kind : Designator=Stepper1 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Stepper2 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Stepper3 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J4 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J5 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=S1 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=U9 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=U15 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=U21 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Stepper4 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=U3 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=U7 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J3 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C15 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C16 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C20 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C12 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C13 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C14 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=F4 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J1 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J2 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=F1 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=F2 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=F3 Old Kind=Standard New Kind=Standard (No BOM)

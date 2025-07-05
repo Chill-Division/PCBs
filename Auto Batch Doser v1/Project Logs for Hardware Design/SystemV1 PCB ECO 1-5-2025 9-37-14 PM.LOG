@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=TQ Pin=SW1-6
+Added Pin To Net: NetName=TQ Pin=SW1-7
+Change Net Name : Old Net Name=CLK New Net Name=CLK_1
+Change Net Name : Old Net Name=DIR New Net Name=DIR_1
+Change Net Name : Old Net Name=ENABLE New Net Name=ENABLE_1
+Change Net Name : Old Net Name=LowPWR New Net Name=LowPWR_1
+Change Net Name : Old Net Name=Opt.PWR New Net Name=Opt.PWR_1
+Change Net Name : Old Net Name=TQ New Net Name=TQ_1
+Change Net Name : Old Net Name=Vref New Net Name=Vref1

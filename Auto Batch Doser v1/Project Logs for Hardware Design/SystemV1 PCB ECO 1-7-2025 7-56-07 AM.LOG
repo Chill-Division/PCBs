@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Stepper Motor1 Member=R83
+Added Component: Designator=L4(INDC2012X06N)
+Add component (AddParameter): Name = "Created By"; Value = "NourAldin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V_uC Pin=L4-1
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Add Net: Net with name "NetR15_2" already exists
+Added Member To Class: ClassName=STM Member=Component L4 C99366
+Added Member To Class: ClassName=Stepper Motor1 Member=Component R2 4.7KR

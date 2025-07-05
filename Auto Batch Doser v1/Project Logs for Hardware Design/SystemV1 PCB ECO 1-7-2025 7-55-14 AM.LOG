@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=R2 NewDesignator=R83
+Add Component: Footprint Not Found INDC2012X06N
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Add Net: Net with name "NetR15_2" already exists
+Add Class Member: Failed to add class member : Component L4 C99366

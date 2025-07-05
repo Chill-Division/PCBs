@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=C67-1
+Removed Pin From Net: NetName=+24V Pin=C67-2
+Removed Member From Class: ClassName=Stepper Motor1 Member=C67

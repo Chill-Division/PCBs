@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=STM_CLK_1 Pin=U26-14
+Removed Pin From Net: NetName=STM_CLK_2 Pin=U26-15
+Removed Pin From Net: NetName=STM_CLK_3 Pin=U26-16
+Removed Pin From Net: NetName=STM_CLK_4 Pin=U26-17
+Added Pin To Net: NetName=STM_CLK_4 Pin=U26-14
+Added Pin To Net: NetName=STM_CLK_3 Pin=U26-15
+Added Pin To Net: NetName=STM_CLK_2 Pin=U26-16
+Added Pin To Net: NetName=STM_CLK_1 Pin=U26-17
