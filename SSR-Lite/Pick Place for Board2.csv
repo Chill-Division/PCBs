@@ -1,0 +1,33 @@
+Altium Designer Pick and Place Locations
+C:\Users\Hardware Team 1\Documents\Projects\000- other projects\SSRBoard\Project Outputs for SSRBoard\Pick Place for Board2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/05/25
+Time:       14:31
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Description","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation"
+"FH2","C41371861  ,  C136382","XF-154","BottomLayer","FUSE-SMD_L10.5-W5.1","25.7810","46.9900","180"
+"FH1","C41371861  ,  C136382","XF-154","BottomLayer","FUSE-SMD_L10.5-W5.1","25.7810","18.0340","180"
+"U2","C22373368","MOC3051SM","BottomLayer","OPTOTRIAC_SMD_6PIN","31.4290","37.4650","270"
+"U1","C22373368","MOC3051SM","BottomLayer","OPTOTRIAC_SMD_6PIN","31.5630","26.1620","270"
+"T5","C181119","MMBT3904 Transistor","BottomLayer","MMBT3904","39.2684","38.8620","180"
+"T4","C181119","MMBT3904 Transistor","BottomLayer","MMBT3904","39.3954","24.7650","180"
+"T3","C8442","Header 3P*9.5mm","TopLayer","3P,9.5mm_Terminal_Block","20.4470","54.1020","180"
+"T2","C8442","Header 3P*9.5mm","TopLayer","3P,9.5mm_Terminal_Block","21.4630","10.6680","0"
+"T1","C8442","Header 3P*9.5mm","TopLayer","3P,9.5mm_Terminal_Block","6.0960","31.9024","270"
+"R8","C60490","10kR","BottomLayer","R0402","42.2910","39.3700","180"
+"R7","C105871","4.7kR","BottomLayer","R0402","42.2910","40.2590","180"
+"R6","C2933817","330R / 0.5W","BottomLayer","R1210","22.9870","34.2900","270"
+"R5","C159971","330R","BottomLayer","R0402","37.8460","41.6560","270"
+"R4","C60490","10kR","BottomLayer","R0402","42.2910","25.1460","180"
+"R3","C105871","4.7kR","BottomLayer","R0402","42.2910","26.0350","180"
+"R2","C2933817","330R / 0.5W","BottomLayer","R1210","22.4790","22.6060","0"
+"R1","C159971","330R","BottomLayer","R0402","37.8460","28.8290","270"
+"Q2","C581422","BT136S-800E,118","BottomLayer","TO-252-3_L6.6-W6.1-P4.57-LS9.9-BR-CW","19.5580","40.2590","0"
+"Q1","C581422","BT136S-800E,118","BottomLayer","TO-252-3_L6.6-W6.1-P4.57-LS9.9-BR-CW","15.6210","21.7170","270"
+"J1","C541313","Header 4P*2mm","TopLayer","CONN-TH_4P-P2.00_HX20020-4A_2","42.0370","31.8610","270"

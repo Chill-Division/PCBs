@@ -1,0 +1,16 @@
+Change Component Comment : Designator=R3 Old Comment=0402 Resistor New Comment=4.7kR
+Change Component Comment : Designator=R7 Old Comment=0402 Resistor New Comment=4.7kR
+Change Component Comment : Designator=R4 Old Comment=0402 Resistor New Comment=10kR
+Change Component Comment : Designator=R8 Old Comment=0402 Resistor New Comment=10kR
+Change Component Comment : Designator=R1 Old Comment=0402 Resistor New Comment=330R
+Change Component Comment : Designator=R5 Old Comment=0402 Resistor New Comment=330R
+Change Component Description : Designator=R4 Old Description= New Description=C60490
+Change Component Description : Designator=R8 Old Description= New Description=C60490
+Change Component Description : Designator=R3 Old Description= New Description=C105871
+Change Component Description : Designator=R7 Old Description= New Description=C105871
+Change Component Description : Designator=R1 Old Description= New Description=C159971
+Change Component Description : Designator=R5 Old Description= New Description=C159971
+Change Component Description : Designator=T4 Old Description=MMBT3904 Transistor New Description=C181119
+Change Component Description : Designator=T5 Old Description=MMBT3904 Transistor New Description=C181119
+Change Component Description : Designator=U1 Old Description=Triac Driver Optocoupler, 6-Pin DIP Random-Phase New Description=C22373368
+Change Component Description : Designator=U2 Old Description=Triac Driver Optocoupler, 6-Pin DIP Random-Phase New Description=C22373368
