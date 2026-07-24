@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [025-Grove0to10VESP.PrjPcb]
+   Generated File[Pick Place for MainBoard.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:40:20 AM On 10/6/2025

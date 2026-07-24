@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=+24V Pin=J1-3
+Removed Pin From Net: NetName=+24V Pin=J1-4
+Removed Pin From Net: NetName=STM_RX_PIN Pin=J5-1
+Removed Pin From Net: NetName=STM_TX_PIN Pin=J5-2
+Change Component Footprint: Designator=J1 Old Footprint=CONN2_235-402331-000_WAGO New Footprint=CONN-TH_2P-P9.50_WJ45C-B-2P
+Change Component Comment : Designator=J1 Old Comment=Terminal Block New Comment=WJ45C-B-9.5-2P
+Change Component Designator: OldDesignator=J1 NewDesignator=P1
+Change Component Kind : Designator=P1 Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "J1" ("P1"); Footprint = "CONN2_235-402331-000_WAGO"; UniqueID = "\QALOOPYS" ("\QALOOPYS")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barrier Type"; Value = "??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "32A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20191225/C8397_C0B2C2E73138A510EBF0F13B91F71912.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "WJ45C-B-9.5-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "9.5mm 1x2P ??P?:2 ??:1 ?? ??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KANGNEX(??????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "WJ45C-B-9.5-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Location"; Value = "??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "9.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "??,P=9.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C8397"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "WJ45C-B-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (Max)"; Value = "750V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge - AWG"; Value = "12~22"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge - mm2"; Value = "4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=STM_TX_PIN Pin=J5-1
+Added Pin To Net: NetName=STM_RX_PIN Pin=J5-2
+Added Pin To Net: NetName=+24V Pin=P1-2

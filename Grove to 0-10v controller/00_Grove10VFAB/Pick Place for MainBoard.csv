@@ -1,0 +1,46 @@
+Altium Designer Pick and Place Locations
+D:\0001Nour\D\My Work\Design\Altium Design\project\UpWork Projects\025- Grove0to10VESP\025-Grove0to10VESP\Project Outputs for 025-Grove0to10VESP\Pick Place for MainBoard.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/10/25
+Time:       09:40
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U3","DS1133-S60BPX","TopLayer","RJ11-TH_DS1133-S60BPX","9.3853","18.6797","0","C77859"
+"U2","GP8403-TC50-EW","TopLayer","ESSOP-10_L4.9-W3.9-P1.00-LS6.0-BL-EP","24.6380","19.0500","270","C3152007"
+"U1","TPS61040DBVR","TopLayer","SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL","21.7170","46.7360","90","C7722"
+"SW7","MST23D19G2","TopLayer","SW-SMD_MST23D19G2","46.3870","5.3781","180","C431545"
+"SW6","MST23D19G2","TopLayer","SW-SMD_MST23D19G2","46.1640","31.4131","180","C431545"
+"SW5","MST23D19G2","TopLayer","SW-SMD_MST23D19G2","46.2920","14.0141","180","C431545"
+"SW4","MST23D19G2","TopLayer","SW-SMD_MST23D19G2","45.7520","40.4689","180","C431545"
+"SW3","DSHP03TS-S","TopLayer","SW-SMD_DSHP03TS-S","29.2100","7.3660","270","C319051"
+"SW2","MST23D19G2","TopLayer","SW-SMD_MST23D19G2","46.2910","22.8159","180","C431545"
+"SW1","MST23D19G2","TopLayer","SW-SMD_MST23D19G2","45.5930","49.2761","180","C431545"
+"R7","10K","TopLayer","RESC2012X07N","29.7180","23.2770","90","C84376"
+"R6","10K","TopLayer","RESC2012X07N","16.8910","19.3040","90","C84376"
+"R5","10K","TopLayer","RESC2012X07N","19.0500","20.1930","90","C84376"
+"R4","10K","TopLayer","RESC2012X07N","15.1130","36.4490","270","C84376"
+"R3","10K","TopLayer","RESC2012X07N","12.9540","36.4490","270","C84376"
+"R2","115K","TopLayer","RESC2012X07N","27.1780","50.2920","270","C2933289"
+"R1","1M","TopLayer","RESC2012X07N","23.1140","50.3280","90","C107700"
+"L1","10uH","TopLayer","IND-SMD_L4.5-W4.5_SMMS0420","21.2090","42.6720","180","C133195"
+"D2","TVS","TopLayer","SOT-23_L2.9-W1.3-P1.90-LS2.4-BR","32.2580","15.3670","180","C2892527"
+"D1","1N5819WS","TopLayer","SOD-323_L1.8-W1.3-LS2.5-RD","25.6540","44.9580","180","C191023"
+"CN1","ZX-HY2.0-4PWT","TopLayer","CONN-SMD_4P-P2.00_ZX-HY2.0-4PWT","6.3500","42.0370","270","C7429571"
+"C11","22uF/25V","TopLayer","CAPC2012X08N","13.7160","47.5340","270","C602037"
+"C10","22uF/25V","TopLayer","CAPC2012X08N","18.2880","47.1530","270","C602037"
+"C9","1uF/50V","TopLayer","CAPC2012X08N","26.5790","22.9870","0","C28323"
+"C8","100nF/50V","TopLayer","CAPC2012X08N","24.9280","15.1130","180","C49678"
+"C7","22uF/25V","TopLayer","CAPC2012X08N","32.3850","31.2420","90","C602037"
+"C6","10uF/25V","TopLayer","CAPC2012X08N","30.2260","31.2420","90","C15850"
+"C5","10uF/25V","TopLayer","CAPC2012X08N","30.9520","35.1790","180","C15850"
+"C4","10uF/25V","TopLayer","CAPC2012X08N","32.0400","18.4150","180","C15850"
+"C3","10uF/25V","TopLayer","CAPC2012X08N","32.0400","20.4470","180","C15850"
+"C2","22uF/25V","TopLayer","CAPC2012X08N","25.8720","46.9900","0","C602037"
+"C1","22pF/50V","TopLayer","CAPC2012X08N","25.1460","50.3280","90","C105623"
+"ASM1117","AMS1117 - 3.3V Reg","TopLayer","SOT229P700X180-4N","24.1300","32.7660","180","C6186"

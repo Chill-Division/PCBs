@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\0001Nour\D\My Work\Design\Altium Design\project\UpWork Projects\010- Four Stepper Motor controller\Hardware Design - V2.1\SystemV1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=systemv1-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=systemv1-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

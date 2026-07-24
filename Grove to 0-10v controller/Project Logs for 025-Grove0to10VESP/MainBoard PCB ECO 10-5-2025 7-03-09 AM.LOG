@@ -1,0 +1,25 @@
+Added Component: Designator=U3(RJ11-TH_DS1133-S60BPX)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "RJ12 Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/DS1133-S60BPX/78993.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "DS1133-S60BPX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "DS1133-S60BPX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LED"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CONNFLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "DS1133-S60BPX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C77859"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DS1133-S60BPX"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PIN_6 Pin=U3-1
+Added Pin To Net: NetName=PIN_5 Pin=U3-2
+Added Pin To Net: NetName=PIN_4 Pin=U3-3
+Added Pin To Net: NetName=PIN_3 Pin=U3-4
+Added Pin To Net: NetName=PIN_2 Pin=U3-5
+Added Pin To Net: NetName=PIN_1 Pin=U3-6
+Added Member To Class: ClassName=MainSheet Member=Component U3 DS1133-S60BPX

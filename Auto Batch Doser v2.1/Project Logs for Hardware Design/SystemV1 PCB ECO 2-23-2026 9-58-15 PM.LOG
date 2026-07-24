@@ -1,0 +1,39 @@
+Added Component: Designator=U28(HZIP25-P-1.0_TB6600HG - HEATSINK)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170511/1494500127812.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TB6600HG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4.5A 42V??????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TOSHIBA(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TB6600HG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "HZIP-25-P-1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C66042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TB6600HG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ALRET_5 Pin=U28-1
+Added Pin To Net: NetName=GND Pin=U28-2
+Added Pin To Net: NetName=TQ_5 Pin=U28-3
+Added Pin To Net: NetName=NetR92_1 Pin=U28-4
+Added Pin To Net: NetName=Vref5 Pin=U28-5
+Added Pin To Net: NetName=+24V Pin=U28-6
+Added Pin To Net: NetName=GND Pin=U28-7
+Added Pin To Net: NetName=GND Pin=U28-8
+Added Pin To Net: NetName=+5V Pin=U28-9
+Added Pin To Net: NetName=Stepper5_B2 Pin=U28-10
+Added Pin To Net: NetName=NetR95_2 Pin=U28-11
+Added Pin To Net: NetName=Stepper5_B1 Pin=U28-12
+Added Pin To Net: NetName=GND Pin=U28-13
+Added Pin To Net: NetName=Stepper5_A2 Pin=U28-14
+Added Pin To Net: NetName=NetR96_2 Pin=U28-15
+Added Pin To Net: NetName=Stepper5_A1 Pin=U28-16
+Added Pin To Net: NetName=GND Pin=U28-17
+Added Pin To Net: NetName=ENABLE_5 Pin=U28-18
+Added Pin To Net: NetName=NetC77_2 Pin=U28-19
+Added Pin To Net: NetName=+24V Pin=U28-20
+Added Pin To Net: NetName=CLK_5 Pin=U28-21
+Added Pin To Net: NetName=DIR_5 Pin=U28-22
+Added Pin To Net: NetName=NetR94_1 Pin=U28-23
+Added Pin To Net: NetName=NetC71_2 Pin=U28-24
+Added Pin To Net: NetName=NetR91_1 Pin=U28-25
+Added Member To Class: ClassName=Stepper Motor5 Member=Component U28 TB6600HG

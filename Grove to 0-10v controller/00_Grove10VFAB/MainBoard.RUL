@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\0001Nour\D\My Work\Design\Altium Design\project\UpWork Projects\025- Grove0to10VESP\025-Grove0to10VESP\MainBoard.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=15.75
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

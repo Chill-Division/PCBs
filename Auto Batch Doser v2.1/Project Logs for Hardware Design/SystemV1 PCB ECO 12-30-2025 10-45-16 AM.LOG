@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=+24V Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=+24V Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=+24V Pin=C49-2
+Removed Pin From Net: NetName=GND Pin=C60-1
+Removed Pin From Net: NetName=+24V Pin=C60-2
+Removed Pin From Net: NetName=GND Pin=C76-1
+Removed Pin From Net: NetName=+24V Pin=C76-2
+Removed Pin From Net: NetName=GND Pin=C88-1
+Removed Pin From Net: NetName=+24V Pin=C88-2
+Change Component Comment : Designator=C6 Old Comment=47uF/50V New Comment=4u7
+Change Component Comment : Designator=C38 Old Comment=47uF/50V New Comment=4u7
+Change Component Comment : Designator=C49 Old Comment=47uF/50V New Comment=4u7
+Change Component Comment : Designator=C60 Old Comment=47uF/50V New Comment=4u7
+Change Component Comment : Designator=C76 Old Comment=47uF/50V New Comment=4u7
+Change Component Comment : Designator=C88 Old Comment=47uF/50V New Comment=4u7
+Change Component Description : Designator=C6 Old Description=C45100 New Description=Single Ended Conductive Polymer Aluminum Solid Electrolytic Capacitors
+Change Component Description : Designator=C38 Old Description=C45100 New Description=Single Ended Conductive Polymer Aluminum Solid Electrolytic Capacitors
+Change Component Description : Designator=C49 Old Description=C45100 New Description=Single Ended Conductive Polymer Aluminum Solid Electrolytic Capacitors
+Change Component Description : Designator=C60 Old Description=C45100 New Description=Single Ended Conductive Polymer Aluminum Solid Electrolytic Capacitors
+Change Component Description : Designator=C76 Old Description=C45100 New Description=Single Ended Conductive Polymer Aluminum Solid Electrolytic Capacitors
+Change Component Description : Designator=C88 Old Description=C45100 New Description=Single Ended Conductive Polymer Aluminum Solid Electrolytic Capacitors
+Change Component Library : Designator=C6 Old Library=GlobalLib.IntLib New Library=GlobalLib.SchLib
+Change Component Library : Designator=C38 Old Library=GlobalLib.IntLib New Library=GlobalLib.SchLib
+Change Component Library : Designator=C49 Old Library=GlobalLib.IntLib New Library=GlobalLib.SchLib
+Change Component Library : Designator=C60 Old Library=GlobalLib.IntLib New Library=GlobalLib.SchLib
+Change Component Library : Designator=C76 Old Library=GlobalLib.IntLib New Library=GlobalLib.SchLib
+Change Component Library : Designator=C88 Old Library=GlobalLib.IntLib New Library=GlobalLib.SchLib
+Change Component Kind : Designator=C60 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C76 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C88 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C6 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C38 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C49 Old Kind=Standard (No BOM) New Kind=Standard
+Added Pin To Net: NetName=+24V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=+24V Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=+24V Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=+24V Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C60-2
+Added Pin To Net: NetName=+24V Pin=C76-1
+Added Pin To Net: NetName=GND Pin=C76-2
+Added Pin To Net: NetName=+24V Pin=C88-1
+Added Pin To Net: NetName=GND Pin=C88-2

@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=PIN_1 Pin=SW1-2
+Added Pin To Net: NetName=PIN_1 Pin=SW1-3
+Added Pin To Net: NetName=PIN_4 Pin=SW2-2
+Added Pin To Net: NetName=PIN_4 Pin=SW2-3
+Added Pin To Net: NetName=PIN_2 Pin=SW4-2
+Added Pin To Net: NetName=PIN_2 Pin=SW4-3
+Added Pin To Net: NetName=PIN_5 Pin=SW5-2
+Added Pin To Net: NetName=PIN_5 Pin=SW5-3
+Added Pin To Net: NetName=PIN_3 Pin=SW6-2
+Added Pin To Net: NetName=PIN_3 Pin=SW6-3
+Added Pin To Net: NetName=PIN_6 Pin=SW7-2
+Added Pin To Net: NetName=PIN_6 Pin=SW7-3

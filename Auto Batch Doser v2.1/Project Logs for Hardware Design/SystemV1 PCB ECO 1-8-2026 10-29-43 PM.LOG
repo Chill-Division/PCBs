@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=STM_CLK_5 Pin=R98-2
+Removed Pin From Net: NetName=STM_DIR_5 Pin=R100-2
+Removed Pin From Net: NetName=STM_ENABLE_5 Pin=R102-2
+Removed Pin From Net: NetName=STM_CLK_6 Pin=R118-2
+Removed Pin From Net: NetName=STM_DIR_6 Pin=R120-2
+Removed Pin From Net: NetName=STM_ENABLE_6 Pin=R122-2
+Added Pin To Net: NetName=STM_CLK_6 Pin=R98-2
+Added Pin To Net: NetName=STM_DIR_6 Pin=R100-2
+Added Pin To Net: NetName=STM_ENABLE_6 Pin=R102-2
+Added Pin To Net: NetName=STM_CLK_5 Pin=R118-2
+Added Pin To Net: NetName=STM_DIR_5 Pin=R120-2
+Added Pin To Net: NetName=STM_ENABLE_5 Pin=R122-2

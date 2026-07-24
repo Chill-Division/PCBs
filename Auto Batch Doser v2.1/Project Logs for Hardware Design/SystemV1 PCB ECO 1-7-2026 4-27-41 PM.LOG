@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=TX0 Pin=S1-1
+Added Pin To Net: NetName=RX0 Pin=S1-2
+Added Pin To Net: NetName=+3.3V_uC Pin=S1-4
