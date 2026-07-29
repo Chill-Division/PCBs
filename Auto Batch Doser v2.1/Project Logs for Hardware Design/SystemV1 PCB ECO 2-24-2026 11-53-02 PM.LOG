@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=C67-1
+Removed Pin From Net: NetName=+5V Pin=C67-2
+Removed Pin From Net: NetName=GND Pin=C69-1
+Removed Pin From Net: NetName=GND Pin=R89-2
+Removed Pin From Net: NetName=+5V Pin=T13-C
+Removed Pin From Net: NetName=CLK_5 Pin=U27-1
+Removed Pin From Net: NetName=GND Pin=U27-7
+Removed Pin From Net: NetName=+5V Pin=U27-14
+Removed Member From Class: ClassName=Stepper Motor5 Member=C67
+Removed Member From Class: ClassName=Stepper Motor5 Member=C69
+Removed Member From Class: ClassName=Stepper Motor5 Member=R85
+Removed Member From Class: ClassName=Stepper Motor5 Member=R89
+Removed Member From Class: ClassName=Stepper Motor5 Member=SW6
+Removed Member From Class: ClassName=Stepper Motor5 Member=T13
+Removed Member From Class: ClassName=Stepper Motor5 Member=U27
+Added Pin To Net: NetName=NetR86_2 Pin=R86-2
+Added Pin To Net: NetName=NetR86_2 Pin=U28-3
+Added Net: Name=NetR86_2
+Added Member To Class: ClassName=POWER Member=Component C13 33uF/50V

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=STM_CLK_1 Pin=R35-2
+Added Pin To Net: NetName=STM_CLK_2 Pin=R35-2
+Added Net: Name=STM_CLK_2

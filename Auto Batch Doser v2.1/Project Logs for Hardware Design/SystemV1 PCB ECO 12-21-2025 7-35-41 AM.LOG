@@ -1,0 +1,28 @@
+Added Component: Designator=U7(SIP-3)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conversion Efficiency"; Value = "94%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conversion Type"; Value = "DC-DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230612/70568B8922D00E56BE7D7C892197C716.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "K7805M-1000R3_C5369649"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Feature"; Value = "Short-Circuit  Protection;Low-Power Consumption"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Boost type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage(DC)"; Value = "7V~36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "K7805M-1000R3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YLPTEC(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "K7805M-1000R3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Capacitive Load"; Value = "2200uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Channel"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current (Max)"; Value = "1000mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Power"; Value = "5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SIP-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5369649"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "K7805M-1000R3_C5369649"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24V Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=+5V Pin=U7-3
+Added Member To Class: ClassName=POWER Member=Component P1 WJ45C-B-9.5-2P
+Added Member To Class: ClassName=POWER Member=Component U7 C5369649

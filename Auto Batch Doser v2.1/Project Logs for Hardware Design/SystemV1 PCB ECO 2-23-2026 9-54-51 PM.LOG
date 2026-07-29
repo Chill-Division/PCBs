@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=U3 Old Footprint=HZIP25-P-1.0_TB6600HG New Footprint=HZIP25-P-1.0_TB6600HG - HEATSINK
+Change Component Footprint: Designator=U9 Old Footprint=HZIP25-P-1.0_TB6600HG New Footprint=HZIP25-P-1.0_TB6600HG - HEATSINK
+Change Component Footprint: Designator=U15 Old Footprint=HZIP25-P-1.0_TB6600HG New Footprint=HZIP25-P-1.0_TB6600HG - HEATSINK
+Change Component Footprint: Designator=U21 Old Footprint=HZIP25-P-1.0_TB6600HG New Footprint=HZIP25-P-1.0_TB6600HG - HEATSINK
+Change Component Footprint: Designator=U28 Old Footprint=HZIP25-P-1.0_TB6600HG New Footprint=HZIP25-P-1.0_TB6600HG - HEATSINK
+Change Component Footprint: Designator=U34 Old Footprint=HZIP25-P-1.0_TB6600HG New Footprint=HZIP25-P-1.0_TB6600HG - HEATSINK
+Added Member To Class: ClassName=Stepper Motor5 Member=Component U28 TB6600HG

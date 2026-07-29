@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+24V Pin=F2-1
+Removed Pin From Net: NetName=GND Pin=F2-2
+Removed Pin From Net: NetName=+24V Pin=F3-1
+Removed Pin From Net: NetName=GND Pin=F3-2
+Removed Pin From Net: NetName=+24V Pin=F4-1
+Removed Pin From Net: NetName=GND Pin=F4-2
+Removed Member From Class: ClassName=POWER Member=F2
+Removed Member From Class: ClassName=POWER Member=F3
+Removed Member From Class: ClassName=POWER Member=F4

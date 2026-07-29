@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=STM_ENABLE_3 Pin=R60-2
+Removed Pin From Net: NetName=STM_ENABLE_4 Pin=R80-2
+Added Pin To Net: NetName=STM_ENABLE_1 Pin=R60-2
+Added Pin To Net: NetName=STM_ENABLE_2 Pin=R80-2

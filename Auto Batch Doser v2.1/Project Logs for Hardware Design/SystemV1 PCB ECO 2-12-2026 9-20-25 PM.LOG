@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=Stepper1 Old Footprint= New Footprint=PCBComponent_1
+Change Component Footprint: Designator=Stepper2 Old Footprint= New Footprint=PCBComponent_1
+Change Component Footprint: Designator=Stepper3 Old Footprint= New Footprint=PCBComponent_1
+Change Component Footprint: Designator=Stepper4 Old Footprint= New Footprint=PCBComponent_1
+Change Component Footprint: Designator=Stepper5 Old Footprint= New Footprint=PCBComponent_1
+Change Component Footprint: Designator=Stepper6 Old Footprint= New Footprint=PCBComponent_1
+Change Component Footprint: Designator=U3 Old Footprint=HZIP25-P-1.00F New Footprint=HZIP25-P-1.0_TB6600HG
+Change Component Description : Designator=SW1 Old Description=C431545 New Description=C2906281
+Change Component Description : Designator=SW2 Old Description=C431545 New Description=C2906281
+Change Component Description : Designator=SW3 Old Description=C431545 New Description=C2906281
+Change Component Description : Designator=SW4 Old Description=C431545 New Description=C2906281
+Change Component Description : Designator=SW6 Old Description=C431545 New Description=C2906281
+Change Component Description : Designator=SW7 Old Description=C431545 New Description=C2906281
+Change Component Description : Designator=S1 Old Description=Header, 3-Pin, Dual row New Description=C42431837

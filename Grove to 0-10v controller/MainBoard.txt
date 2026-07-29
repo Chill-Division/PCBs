@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : D:\0001Nour\D\My Work\Design\Altium Design\project\UpWork Projects\025- Grove0to10VESP\025-Grove0to10VESP\MainBoard.PcbDoc
+Date         : 10/6/2025
+Time         : 9:43:01 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 57.531mmx55.626mm
+    Components on board, 33
+count : 2

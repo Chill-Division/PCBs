@@ -1,0 +1,32 @@
+Added Component: Designator=C76(CAPLEAD_D6.3mm)
+Add component (AddParameter): Name = "Category"; Value = "Polymer Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.kemet.com/docfinder?Partnumber=A759EQ475M2AAAE160&src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/docfinder?Partnumber=A759EQ475M2AAAE160&src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2095614.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2095614.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "A759EQ475M2AAAE160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.97, 10=0.73, 50=0.73, 100=0.546, 1000=0.384, 10000=0.326 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "17219"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-A759EQ475M2AAE160"; VariantName = "[No Variations]"
+Added Component: Designator=C88(CAPLEAD_D6.3mm)
+Add component (AddParameter): Name = "Category"; Value = "Polymer Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.kemet.com/docfinder?Partnumber=A759EQ475M2AAAE160&src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/docfinder?Partnumber=A759EQ475M2AAAE160&src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2095614.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2095614.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "A759EQ475M2AAAE160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.97, 10=0.73, 50=0.73, 100=0.546, 1000=0.384, 10000=0.326 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "17219"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-A759EQ475M2AAE160"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24V Pin=C76-1
+Added Pin To Net: NetName=GND Pin=C76-2
+Added Pin To Net: NetName=+24V Pin=C88-1
+Added Pin To Net: NetName=GND Pin=C88-2
+Added Member To Class: ClassName=Stepper Motor5 Member=Component C76 4u7
+Added Member To Class: ClassName=Stepper Motor6 Member=Component C88 4u7
